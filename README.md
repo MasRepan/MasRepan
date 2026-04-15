@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone , I'm Revan<br><br>I am a vocational high school student with a strong interest in software development. <br>I focus on building applications using desktop technologies (C# WinForms) and web development.<br><br>Currently, I am learning and developing projects to improve my skills in programming, <br>database design, and application development.<br><br>My goal is to become a professional software engineer and continuously grow in the IT field.
+Hi everyone , I'm Revan<br><br>I am a vocational high school student with a strong interest in software development. <br>I focus on building applications using desktop technologies (C# WinForms) and web development.<br><br>Currently, I am learning and developing projects to improve my skills in programming, <br>database design, and application development.<br><br>
 
 
 ## 🌐 Socials:
